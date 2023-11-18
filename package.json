@@ -1,14 +1,15 @@
 {
-    "name": "mbtile-server"
-  , "description": "A crazy simple mbtiles server in node"
-  , "version": "0.0.1"
-  , "private": false
-  , "author": "Chris Helm"
-  , "dependencies": {
-    "express": "*"
-    , "mbtiles": "*"
-  }
-  , "engines": {
+  "name": "mbtile-server",
+  "description": "A crazy simple mbtiles server in node",
+  "version": "0.0.1",
+  "private": false,
+  "author": "Chris Helm",
+  "dependencies": {
+    "debug": "^4.3.4",
+    "express": "^4.18.2",
+    "mbtiles": "^0.9.0"
+  },
+  "engines": {
     "node": "0.8.x"
   }
 }

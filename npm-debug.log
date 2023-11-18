@@ -1,0 +1,123 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/home/codespace/nvm/current/bin/node',
+1 verbose cli   '/home/codespace/nvm/current/bin/npm',
+1 verbose cli   'install',
+1 verbose cli   'express' ]
+2 info using npm@1.2.30
+3 info using node@v0.8.28
+4 verbose node symlink /home/codespace/nvm/current/bin/node
+5 verbose read json /workspaces/mbtiles-server/package.json
+6 warn package.json mbtile-server@0.0.1 No repository field.
+7 verbose read json /workspaces/mbtiles-server/node_modules/function-bind/package.json
+8 verbose read json /workspaces/mbtiles-server/node_modules/set-function-length/package.json
+9 verbose read json /workspaces/mbtiles-server/node_modules/safe-buffer/package.json
+10 verbose read json /workspaces/mbtiles-server/node_modules/escape-html/package.json
+11 verbose read json /workspaces/mbtiles-server/node_modules/etag/package.json
+12 verbose read json /workspaces/mbtiles-server/node_modules/forwarded/package.json
+13 verbose read json /workspaces/mbtiles-server/node_modules/inherits/package.json
+14 verbose read json /workspaces/mbtiles-server/node_modules/safer-buffer/package.json
+15 verbose read json /workspaces/mbtiles-server/node_modules/mime-types/package.json
+16 verbose read json /workspaces/mbtiles-server/node_modules/serve-static/package.json
+17 verbose read json /workspaces/mbtiles-server/node_modules/tiletype/package.json
+18 verbose read json /workspaces/mbtiles-server/node_modules/express/package.json
+19 verbose read json /workspaces/mbtiles-server/node_modules/media-typer/package.json
+20 verbose read json /workspaces/mbtiles-server/node_modules/content-disposition/package.json
+21 verbose read json /workspaces/mbtiles-server/node_modules/bytes/package.json
+22 verbose read json /workspaces/mbtiles-server/node_modules/mime/package.json
+23 verbose read json /workspaces/mbtiles-server/node_modules/negotiator/package.json
+24 verbose read json /workspaces/mbtiles-server/node_modules/type-is/package.json
+25 verbose read json /workspaces/mbtiles-server/node_modules/utils-merge/package.json
+26 verbose read json /workspaces/mbtiles-server/node_modules/mime-db/package.json
+27 verbose read json /workspaces/mbtiles-server/node_modules/toidentifier/package.json
+28 verbose read json /workspaces/mbtiles-server/node_modules/mbtiles/package.json
+29 verbose read json /workspaces/mbtiles-server/node_modules/call-bind/package.json
+30 verbose read json /workspaces/mbtiles-server/node_modules/range-parser/package.json
+31 verbose read json /workspaces/mbtiles-server/node_modules/gopd/package.json
+32 verbose read json /workspaces/mbtiles-server/node_modules/raw-body/package.json
+33 verbose read json /workspaces/mbtiles-server/node_modules/iconv-lite/package.json
+34 verbose read json /workspaces/mbtiles-server/node_modules/path-to-regexp/package.json
+35 verbose read json /workspaces/mbtiles-server/node_modules/finalhandler/package.json
+36 verbose read json /workspaces/mbtiles-server/node_modules/fresh/package.json
+37 verbose read json /workspaces/mbtiles-server/node_modules/depd/package.json
+38 verbose read json /workspaces/mbtiles-server/node_modules/ee-first/package.json
+39 verbose read json /workspaces/mbtiles-server/node_modules/d3-queue/package.json
+40 verbose read json /workspaces/mbtiles-server/node_modules/has-proto/package.json
+41 verbose read json /workspaces/mbtiles-server/node_modules/methods/package.json
+42 verbose read json /workspaces/mbtiles-server/node_modules/ipaddr.js/package.json
+43 verbose read json /workspaces/mbtiles-server/node_modules/define-data-property/package.json
+44 verbose read json /workspaces/mbtiles-server/node_modules/qs/package.json
+45 verbose read json /workspaces/mbtiles-server/node_modules/on-finished/package.json
+46 verbose read json /workspaces/mbtiles-server/node_modules/http-errors/package.json
+47 verbose read json /workspaces/mbtiles-server/node_modules/debug/package.json
+48 verbose read json /workspaces/mbtiles-server/node_modules/side-channel/package.json
+49 verbose read json /workspaces/mbtiles-server/node_modules/has-property-descriptors/package.json
+50 verbose read json /workspaces/mbtiles-server/node_modules/hasown/package.json
+51 verbose read json /workspaces/mbtiles-server/node_modules/cookie/package.json
+52 verbose read json /workspaces/mbtiles-server/node_modules/destroy/package.json
+53 verbose read json /workspaces/mbtiles-server/node_modules/send/package.json
+54 verbose read json /workspaces/mbtiles-server/node_modules/encodeurl/package.json
+55 verbose read json /workspaces/mbtiles-server/node_modules/sqlite3/package.json
+56 verbose read json /workspaces/mbtiles-server/node_modules/content-type/package.json
+57 verbose read json /workspaces/mbtiles-server/node_modules/cookie-signature/package.json
+58 verbose read json /workspaces/mbtiles-server/node_modules/vary/package.json
+59 verbose read json /workspaces/mbtiles-server/node_modules/proxy-addr/package.json
+60 verbose read json /workspaces/mbtiles-server/node_modules/array-flatten/package.json
+61 verbose read json /workspaces/mbtiles-server/node_modules/unpipe/package.json
+62 verbose read json /workspaces/mbtiles-server/node_modules/body-parser/package.json
+63 verbose read json /workspaces/mbtiles-server/node_modules/statuses/package.json
+64 verbose read json /workspaces/mbtiles-server/node_modules/setprototypeof/package.json
+65 verbose read json /workspaces/mbtiles-server/node_modules/get-intrinsic/package.json
+66 verbose read json /workspaces/mbtiles-server/node_modules/accepts/package.json
+67 verbose read json /workspaces/mbtiles-server/node_modules/has-symbols/package.json
+68 verbose read json /workspaces/mbtiles-server/node_modules/merge-descriptors/package.json
+69 verbose read json /workspaces/mbtiles-server/node_modules/sphericalmercator/package.json
+70 verbose read json /workspaces/mbtiles-server/node_modules/nan/package.json
+71 verbose read json /workspaces/mbtiles-server/node_modules/object-inspect/package.json
+72 verbose read json /workspaces/mbtiles-server/node_modules/parseurl/package.json
+73 warn package.json tiletype@0.1.0 No repository field.
+74 verbose from cache /workspaces/mbtiles-server/package.json
+75 verbose readDependencies using package.json deps
+76 verbose cache add [ 'express@^4.18.2', null ]
+77 verbose cache add name=undefined spec="express@^4.18.2" args=["express@^4.18.2",null]
+78 verbose parsed url { pathname: 'express@^4.18.2',
+78 verbose parsed url   path: 'express@^4.18.2',
+78 verbose parsed url   href: 'express@^4.18.2' }
+79 verbose cache add name="express" spec="^4.18.2" args=["express","^4.18.2"]
+80 verbose parsed url { pathname: '^4.18.2', path: '^4.18.2', href: '^4.18.2' }
+81 verbose addNamed [ 'express', '^4.18.2' ]
+82 verbose addNamed [ null, null ]
+83 silly lockFile c00c43a5-express-4-18-2 express@^4.18.2
+84 verbose lock express@^4.18.2 /home/codespace/.npm/c00c43a5-express-4-18-2.lock
+85 info addNameTag [ 'express', '^4.18.2' ]
+86 verbose url raw express
+87 verbose url resolving [ 'https://registry.npmjs.org/', './express' ]
+88 verbose url resolved https://registry.npmjs.org/express
+89 info trying registry request attempt 1 at 21:55:07
+90 http GET https://registry.npmjs.org/express
+91 info retry will retry, error on last attempt: Error: 140432116971328:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+92 info trying registry request attempt 2 at 21:55:17
+93 http GET https://registry.npmjs.org/express
+94 info retry will retry, error on last attempt: Error: 140432116971328:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+95 info trying registry request attempt 3 at 21:56:17
+96 http GET https://registry.npmjs.org/express
+97 silly lockFile c00c43a5-express-4-18-2 express@^4.18.2
+98 silly lockFile c00c43a5-express-4-18-2 express@^4.18.2
+99 error Error: 140432116971328:error:1407742E:SSL routines:SSL23_GET_SERVER_HELLO:tlsv1 alert protocol version:../deps/openssl/openssl/ssl/s23_clnt.c:658:
+99 error
+99 error     at CleartextStream._puller (tls.js:670:24)
+99 error     at CleartextStream.CryptoStream._pull (tls.js:604:19)
+99 error     at SecurePair.cycle (tls.js:894:20)
+99 error     at EncryptedStream.CryptoStream.write (tls.js:285:13)
+99 error     at Socket.ondata (stream.js:38:26)
+99 error     at Socket.EventEmitter.emit (events.js:96:17)
+99 error     at TCP.onread (net.js:397:14)
+100 error If you need help, you may report this log at:
+100 error     <http://github.com/isaacs/npm/issues>
+100 error or email it to:
+100 error     <npm-@googlegroups.com>
+101 error System Linux 6.2.0-1016-azure
+102 error command "/home/codespace/nvm/current/bin/node" "/home/codespace/nvm/current/bin/npm" "install" "express"
+103 error cwd /workspaces/mbtiles-server
+104 error node -v v0.8.28
+105 error npm -v 1.2.30
+106 verbose exit [ 1, true ]
